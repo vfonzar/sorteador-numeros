@@ -9,7 +9,8 @@ Agora, além de adivinhar números, o projeto inclui um **sorteador aleatório**
 
 🗣️ **Além disso, o jogo conta com um sistema de leitura automática do resultado, utilizando síntese de voz robótica.**  
 
-
+🔗 **Acesse o projeto online:**  
+👉 [sorteador-do-vini.vercel.app](https://sorteador-do-vini.vercel.app/)
 
 ## 🚀 Tecnologias Utilizadas  
 
@@ -73,7 +74,7 @@ git commit -m "Adicionando nova funcionalidade"
 git push origin feature-nova-funcionalidade
 ```
 
-**5.	Abra um Pull Request 🚀**
+**5.	Abra um Pull Request** 🚀
 
 ## 📜 Licença
 Este projeto é open-source e segue a licença MIT.
